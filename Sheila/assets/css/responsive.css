@@ -1,0 +1,2111 @@
+@media only screen and (max-width: 1919px) {
+	.banner-content-wrapper::after{
+		 left: -140px;
+	 }
+	 .participating-wrapper{
+		 width: 69%;
+	}
+}
+@media only screen and (max-width: 1679px){
+	.navbar-wrapper{
+		 width: 57%;
+	 }
+	 .banner-content-wrapper::after{
+        background-size: 100% 100%;
+        width: 650px;
+        height: 550px;
+	 }
+	 .sheila-choen-about-wrapper{
+	 	margin-top: 125px;
+	 }
+	 .participating-box-wrapper p{
+	 	font-size: 21px;
+	 	line-height: 39px;
+	 }
+	 .testimonial-form-wrapper{
+	 	 padding-bottom: 10px;
+	 }
+	 .slider-wrapper .bx-prev{
+	 	 top: 33px;
+	 	 left: -39px;
+	 }
+}
+@media only screen and (max-width: 1439px){
+    .navbar-wrapper {
+    width: 60%;
+  }
+  .participating-wrapper {
+    width: 75%;
+   }
+   a.block-button.footer-btn{
+   	  width: 17%;
+   }
+   .footer-social-links-wrapper ul li a{
+   	  width: 65%;
+   }
+}
+@media only screen and (max-width: 1320px){
+      .navbar-wrapper nav ul li{
+   	   margin-right: 40px;
+     }
+      .navbar-wrapper {
+       width: 65%;
+     }
+      .header-contact-link-wrapper{
+  	  width: 55%;
+     }   
+     .banner-content-wrapper{
+  	 width: 60%;
+     }
+     .sheila-tabber-content-wrapper blockquote{
+  	 font-size: 28px;
+  	 line-height: 44px;
+     }
+     .tabber-pagger-wrapper ul li .active::after{
+  	  left: 150px;
+     }
+     .specialist-box{
+     	 margin-right: 50px;
+     }
+     .lets-connect-wrapper{
+     	 width: 75%;
+     }
+     .testimonial-wrapper{
+     	 margin-left: 30px;
+     }
+     .testimonial-wrapper::after{
+     	 right: 172px;
+     }
+     .participating-wrapper {
+      width: 81%;
+     }
+     a.block-button.footer-btn {
+      width: 20%;
+     }
+     .footer-social-links-wrapper ul li a {
+      width: 75%;
+     }
+     .specialist-box figure{
+     	 width: 41%;
+     }
+}
+@media only screen and (max-width: 1199px){
+	  .navbar-wrapper nav ul li {
+       margin-right: 19px;
+     }
+      .navbar-wrapper nav ul li a{
+  	  font-size: 19px;
+  	  line-height: 22px;
+     }
+      .banner-content-wrapper p{
+  	  font-size: 17px;
+  	  line-height: 19px;
+     }
+     .banner-content-wrapper h1{
+     	 font-size: 50px;
+     	 line-height: 65px;
+     }
+     .sheila-tabber-content-wrapper blockquote {
+      font-size: 24px;
+      line-height: 39px;
+     }
+     .banner-content-wrapper::after {
+       left: -112px;
+     }
+
+     .taber-content-wrapper.clearfix{
+     	 width: 100%;
+     }
+     .forensic-service.left {
+      width: 48%;
+     }
+     .clinical-service {
+       width: 48% ;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+       left: 125px;
+     }
+     .clinical-service ul li a{
+     	 font-size: 18px;
+     	 line-height: 22px;
+     }
+     .forensic-service ul li a{
+     	font-size: 18px;
+     	 line-height: 22px;
+     }
+     .about-content-wrapper p{
+     	 font-size: 19px;
+     	 line-height: 34px;
+     }
+      a.block-button.about-button{ 
+         width: 17%;
+     }
+     .specialist-box figure {
+       width: 55%;
+     }
+     .about-content-wrapper h3{
+     	 font-size: 40px;
+     	 line-height: 43px;
+     }
+     a.block-button.lets-connect-btn{
+     	 width: 23%;
+     }
+     .specialist-box h4{
+     	 font-size: 18px;
+     	 line-height: 24px;
+     }
+     .form-container{
+     	 width: 100%;
+     }
+
+     .testimonial-wrapper::after {
+       right: 127px;
+       width: 33%;
+     }
+     .participating-wrapper {
+      width: 95%;
+     }
+     .footer-content-wrapper {
+       padding-top: 145px;
+     }
+       a.block-button.footer-btn {
+      width: 25%;
+     }
+     .footer-social-links-wrapper ul li a {
+      width: 90%;
+     }   
+     .our-specialist-wrapper {
+       padding: 112px 0px 70px 0px;
+     }
+     .testimonial-form-wrapper{
+     	 padding-top: 115px;
+     }
+     .block-button{
+     	 width: 30%;
+     }
+     .footer-logo-wrapper{
+     	 text-align: center;
+     }
+     .header-contact-link-wrapper {
+       width: 60%;
+     }
+ }
+ @media only screen and (max-width: 1023px){
+	 .navbar-wrapper nav ul li a {
+      font-size: 18px;
+      line-height: 22px;
+     }
+     .header-contact-link-wrapper {
+      width: 65%;
+     }
+     .banner-content-wrapper p {
+      font-size: 16px;
+      line-height: 19px;
+     }
+     .sheila-tabber-content-wrapper blockquote {
+     font-size: 23px;
+     line-height: 38px;
+     }
+     .banner-content-wrapper::after{
+       width: 630px;
+       height: 520px;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+      left: 116px;
+     }
+     .clinical-service {
+      width: 49%;
+     }
+     .forensic-service.left {
+      width: 49%;
+     }
+     .about-content-wrapper p{
+     	width: 90%;
+     }
+     .participating-wrapper {
+      width: 100%;
+     }
+     .slider-wrapper .bx-next{
+     	right: -36px;
+     }
+     .testimonial-wrapper::after {
+      right: 113px;
+      width: 35%;
+     }
+}
+@media only screen and (max-width: 979px){
+    .logo-wrapper {
+       width: 60%;
+       padding: 30px 0px 20px 0px;
+       float: none;
+      margin: 0 auto;
+     }
+     .navbar-wrapper {
+      width: 100%;
+      float: none;
+      text-align: center;
+      margin: 0 auto;
+      clip-path: none;
+       padding: 30px 30px;
+     }
+     .header-inner-wrapper{
+       position: unset;
+       border-bottom: 0;
+     }
+      .navbar-wrapper nav ul li {
+      margin-right: 30px;
+     }
+     .navbar-wrapper nav ul li a{
+       font-size: 20px;
+       line-height: 22px;
+     }
+     .header-contact-link-wrapper {
+      width: 85%;
+      margin: 0 auto;
+     }
+     .banner-content-wrapper {
+      width: 80%;
+      float: none;
+      margin: 0 auto;
+     text-align: center;
+     }
+     .banner-img-wrapper {
+      width: 55%;
+      float: none;
+      margin: 0 auto;
+      padding-top: 50px;
+     }
+     .navbar-wrapper::after{
+     	 width: 0;
+     }
+     .sheila-tabber-content-wrapper blockquote{
+       text-align: center;
+     }
+      .banner-content-wrapper::after {
+       left: -10px;
+     }
+     .tabber-wrapper {
+        width: 100%;
+     }
+     .tabber-pagger-wrapper{
+     	 width: 100%;
+     }
+     .tabber-pagger-wrapper ul li{ 
+        width: 32.88%;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+       left: 95px;
+     }
+     .forensic-service h4{ 
+        font-size: 34px;
+        line-height: 36px;
+     }
+     .clinical-service h4{
+        font-size: 34px;
+        line-height: 36px;
+     }
+     .taber-content-wrapper.clearfix{
+     	 padding: 100px 30px;
+     }
+     .forensic-service h4::after{
+       width: 14%;
+     }
+     .clinical-service h4::after{
+     	 width: 12%;
+     	 right: -15px;
+     }
+     .forensic-service h4::before{ 
+        left: -30px;
+     }
+     .about-content-wrapper p {
+      width: 100%;
+      text-align: center;
+     }
+     .sheila-choen-about-wrapper {
+      margin-top: 95px;
+     }
+     a.block-button.about-button {
+      width: 25%;
+     }
+      .banner-wrapper {
+       margin-top: 55px;
+     }
+      .our-specialist-wrapper{
+     	 width: 100%;
+     	 text-align: center;
+     }
+      .specialist-box {
+       margin: 0px 30px 30px 0px;
+      }
+      .specialist-box:nth-of-type(even){
+       margin: 0px 0px 0px 0px;
+     }   
+       .specialist-box{
+         width: 35%;
+         vertical-align: top;
+     }
+     .specialist-box figure {
+      width: 40%;
+     }
+     .lets-connect-wrapper {
+       width: 95%;
+     }
+     .testimonial-wrapper {
+     float: none;
+      margin: 0 auto;
+     width: 75%;
+      text-align: center;
+     }
+     .testimonial-wrapper{
+     	padding-top: 0;
+     }
+     .form-wrapper {
+      width: 71%;
+      float: none;
+      margin: 0 auto;
+      padding-top: 100px;
+     }
+      .testimonial-wrapper::after {
+       right: 140px;
+       width: 35%;
+       bottom: -12px;
+     }
+     .participating-box-wrapper p {
+       font-size: 18px;
+       line-height: 33px;
+       text-align: center;
+     }
+     .participating-wrapper{
+       padding-top: 40px;
+     }
+     .footer-social-links-wrapper ul li a {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+     }
+     .footer-social-links-wrapper ul li{
+       width: 32%;
+     } 
+      a.block-button.footer-btn {
+       width: 31%;
+     }  
+     .footer-logo-wrapper{
+       padding-bottom: 35px;
+     }
+     .copyright-wrapper p{
+     	font-size: 18px;
+       line-height: 20px;
+     }
+     .testimonial-wrapper h3{
+     	 padding-bottom: 20px;
+     }
+     .slider-wrapper p{
+     	 font-size: 22px;
+     	 line-height: 35px;
+     }
+     .testimonial-wrapper::after{
+     	bottom: -9px;
+     }
+     .participating-box-wrapper {
+       padding: 19px 50px;
+     }
+     .footer-social-links-wrapper ul li figure{
+     	 min-height: 0;
+     }
+} 
+@media only screen and (max-width: 767px){
+	 .slicknav_nav li a{
+		 display: block;
+		 font-size: 19px;
+         padding-bottom: 22px;
+         color: #fff;
+	 }
+	 ul.slicknav_nav{
+	 	display: block;
+	   	text-align: center;
+        top: 86px;
+        right: 0px;
+        width: 190px;
+        background-color: #070f33;
+        z-index: 11;
+	 }
+	 span.slicknav_menutxt{
+	 	 display: block;
+	 	 font-size: 0;
+	 	 top: 34px;
+         right: 67px;
+	 }
+	 .navbar-wrapper{
+	 	display: none;
+	 }
+	 .logo-wrapper{
+	   width:90% ;
+	 }
+	 .header-contact-link-wrapper {
+      width: 100%;
+     }
+     .header-contact-link-wrapper ul li{
+     	 margin-right: 24px;
+     }
+     .banner-content-wrapper {
+       width: 100%;
+     }
+     .banner-img-wrapper {
+      width: 60%;
+     }
+     .sheila-tabber-content-wrapper blockquote {
+      font-size: 20px;
+      line-height: 33px;
+     }
+     .forensic-service.left {
+       width: 100%;
+      float: none;
+      margin: 0 auto;
+     }
+     .clinical-service {
+      width: 100%;
+      float: none;
+      margin: 0 auto;
+      padding-left: 0;
+     }
+     .clinical-service::after{
+     	 width: 0;
+     	 height: 0;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+       left: 84px;
+     }
+     .specialist-box{
+       width: 38%;
+     }
+     .lets-connect-wrapper {
+       width: 100%;
+     }
+     .about-content-wrapper h3 {
+       font-size: 35px;
+       line-height: 38px;
+     }
+     a.block-button.lets-connect-btn {
+      width: 28%;
+     }
+     .testimonial-form-wrapper {
+        padding-top: 75px;
+     }
+     .testimonial-wrapper::after{
+     	 width: 32%;
+     }
+     .form-wrapper{
+     	 width: 80%;
+     }
+     .participating-box-wrapper p {
+       font-size: 16px;
+       line-height: 33px;
+     }
+     .participating-box-wrapper {
+      padding: 20px 24px;
+     }
+     a.block-button.footer-btn {
+      width: 37%;
+     }
+     .footer-social-links-wrapper ul li {
+     width: 50%;
+     margin: 0 auto;
+     text-align: center;
+     display: block;
+     padding-bottom: 40px;
+     }
+     .footer-navbar{
+    	 margin-top: 15px;
+     }
+     .footer-navbar ul li a{
+     	 font-size: 18px;
+     	 line-height: 22px;
+     }
+     .footer-navbar ul li {
+     	 margin-right: 20px;
+     }
+     .footer-social-links-wrapper ul li a{ 
+        font-size: 19px;
+        line-height: 25px;
+     }
+     .banner-content-wrapper h1 {
+     font-size: 55px;
+     line-height: 65px;
+     }
+     .header-contact-link-wrapper ul li{
+        display: block;
+        margin-right: 0;
+     }
+     .header-contact-link-wrapper{
+       padding: 0px 0px 0px 40px;
+     }
+     .header-contact-link-wrapper ul li:last-child{
+       margin-top: 10px;
+     }
+     .specialist-box figure {
+     width: 33%;
+     }
+ }
+ @media only screen and (max-width: 649px){
+  	 .logo-wrapper {
+       width: 100%;
+     }
+      span.slicknav_menutxt{
+     	 right: 15px;
+     }
+     ul.slicknav_nav{
+        right: -50px;
+     }
+     .header-contact-link-wrapper{
+     	 padding: 5px 0px 0px 40px;
+     }
+     .banner-content-wrapper h1 {
+      font-size: 48px;
+      line-height: 60px;
+      padding-bottom: 25px;
+     }
+     .banner-img-wrapper {
+      width: 70%;
+     }
+     .banner-content-wrapper::after {
+      width: 440px;
+      height: 440px;
+     }
+     .logo-wrapper {
+       width: 70%;
+       margin: 0;
+     }
+      ul.slicknav_nav {
+       right: 6px;
+     }
+     .slicknav_nav li a {
+     	font-size: 17px;
+     	line-height: 19px;
+     	padding-bottom: 19px;
+     }
+     ul.slicknav_nav{
+     	width: 177px;
+     }
+     span.slicknav_menutxt {
+      right: 92px;
+     }
+     .tabber-pagger-wrapper ul li {
+       width: 32.77%;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+       left: 72px;
+     }
+      a.block-button.about-button {
+       width: 32%;
+     }
+     .specialist-box figure {
+      width: 50%;
+     }
+     .our-specialist-wrapper {
+      padding: 112px 0px 60px 0px;
+     }
+     .about-content-wrapper h3 {
+      font-size: 30px;
+      line-height: 36px;
+     }
+      a.block-button.lets-connect-btn {
+       width: 35%;
+     }
+     .testimonial-wrapper::after {
+      width: 28%;
+     }
+     .submit-btn{
+      width: 50%;
+     }
+     .form-wrapper {
+       width: 90%;
+     }
+     .participating-box-content {
+      width: 100%;
+      float: none;
+       margin: 0 auto;
+     }
+     .participating-box-wrapper p {
+     font-size: 18px;
+     line-height: 33px;
+     }
+     .psypat-logo-wrapper {
+       width: 20%;
+       padding-top: 20px;
+       float: none;
+      margin: 0 auto;
+     }
+      a.block-button.footer-btn {
+       width: 43%;
+     }
+     .footer-social-links-wrapper ul li{
+     	 width: 60%;
+     }
+     .footer-navbar ul li a {
+     font-size: 17px;
+     line-height: 22px;
+     }
+ } 
+ @media only screen and (max-width: 567px){
+ 	 .header-contact-link-wrapper {
+       padding: 0px 0px 0px 40px;
+       display: block;
+     }
+     .banner-wrapper {
+      margin-top: 40px;
+     }   
+     .banner-content-wrapper p {
+      font-size: 19px;
+      line-height: 28px;
+     }
+     .banner-content-wrapper h1 {
+       font-size: 41px;
+       line-height: 53px;
+       padding-bottom: 25px;
+     }
+     .block-button {
+       width: 40%;
+     }
+     .banner-img-wrapper {
+      width: 85%;
+     }
+     /* ===== Scrollbar CSS ===== */
+	  /* Firefox */
+	  .tabs {
+	    scrollbar-width: auto;
+	    scrollbar-color: #8f54a0 #bdbcbc;
+	  }
+
+	  /* Chrome, Edge, and Safari */
+	  .tabs::-webkit-scrollbar {
+	    width: 8px;
+	  }
+
+	  .tabs::-webkit-scrollbar-track {
+	    background: #bdbcbc;
+	  }
+
+	  .tabs::-webkit-scrollbar-thumb {
+	    background-color: #8f54a0;
+	    border-radius: 0px;
+	    border: 0px solid #fffafa;
+	  }
+	  .tabber-pagger-wrapper ul li {
+	    width: 32.66%;
+	  }
+
+      .tabber-pagger-wrapper ul li .active::after {
+        left: 53px;
+     }
+     .about-content-wrapper p {
+      font-size: 18px;
+      line-height: 30px;
+     }
+     .specialist-box {
+      width: 40%;
+     }
+     .about-content-wrapper h3 {
+      font-size: 25px;
+      line-height: 28px;
+     }
+     .testimonial-wrapper::after {
+       width: 21%;
+      z-index: -1;
+     }
+     .participating-box-wrapper p {
+      font-size: 20px;
+      line-height: 33px;
+     }
+     a.block-button.footer-btn {
+      width: 50%;
+     }
+     .footer-navbar {
+       width: 70%;
+       margin: 0 auto;
+     }
+       .footer-navbar ul li {
+       display: block;
+       margin: 0 auto;
+       padding-bottom: 20px;
+     }
+     .footer-navbar ul li a {
+     font-size: 20px;
+     line-height: 22px;
+     }
+      .tabber-pagger-wrapper ul li a{
+      font-size: 19px;
+      line-height: 24px;
+     }
+      .testimonial-wrapper::after {
+       bottom: -13px;
+       width: 46%;
+       right: 67px;
+      }
+      .participating-box-wrapper{
+         margin-bottom: 0;
+         clip-path: none;
+      }
+      .form-container h3 {
+     font-size: 36px;
+     line-height: 39px;
+    }
+    .form-wrapper label{
+       font-size: 15px;
+       line-height: 19px;
+    }
+    .input-filed textarea{
+       padding-bottom: 10px 15px 10px 47px;
+    }
+    span.slicknav_icon{
+       right: 16px;
+    }
+ }
+ @media only screen and (max-width: 479px){
+ 	 .banner-content-wrapper::after {
+     width: 355px;
+     height: 375px;
+     }
+     .banner-img-wrapper figure::after{
+   	  height: 330px;
+   	  width: 330px;
+     }
+     .banner-img-wrapper figure::before{
+   	  height: 330px;
+   	  width: 330px;
+      }
+     .footer-logo-wrapper figure svg {
+      width: 380px;
+     }
+     span.slicknav_menutxt{
+     	 width: 14%;
+     }
+      span.slicknav_menutxt {
+      right: 60px;
+     }
+     ul.slicknav_nav {
+     right: 10px;
+     }
+       .banner-content-wrapper h1 {
+       font-size: 35px;
+       line-height: 45px;
+       padding-bottom: 20px;
+     }
+     .tabber-pagger-wrapper ul li {
+       width: 32.6%;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+      left: 45px;
+     }
+     .tabber-pagger-wrapper ul li a{
+     	 font-size: 19px;
+     	 line-height: 24px;
+     }
+      a.block-button.about-button {
+      width: 45%;
+     }
+     .specialist-box figure {
+      width: 65%;
+     } 
+     .about-content-wrapper h3 {
+     font-size: 21px;
+     line-height: 24px;
+     }
+     a.block-button.lets-connect-btn {
+      width: 45%;
+     }
+     .testimonial-wrapper h3{
+     	 font-size: 40px;
+     	 line-height: 43px;
+     }
+     .form-wrapper {
+      width: 100%;
+     }
+     .form-container h3{
+     	 font-size: 34px;
+     	 line-height: 36px;
+     }
+     .testimonial-wrapper::after {
+       bottom: -13px;
+       width: 46%;
+       right: 67px;
+     }
+     .participating-box-wrapper{
+     	 clip-path: none;
+     	 position: relative;
+     }
+     .participating-box-wrapper p {
+     font-size: 18px;
+     line-height: 33px;
+     }
+     .psypat-logo-wrapper{
+     	 width: 33%;
+     }
+     a.block-button.footer-btn {
+      width: 57%;
+     }
+     .footer-social-links-wrapper ul li {
+      width: 75%;
+     }
+     .block-button {
+      width: 48%;
+     }
+     .slider-wrapper .bx-next{
+        width: 8%;
+     }
+     .slider-wrapper .bx-prev{
+        width: 8%;
+     }
+ }
+ @media only screen and (max-width: 413px){
+ 	 .footer-logo-wrapper figure svg {
+      width: 340px;
+     }
+     .banner-content-wrapper p {
+      font-size: 18px;
+      line-height: 28px;
+     }
+     .banner-content-wrapper h1 {
+      font-size: 31px;
+      line-height: 41px;
+      padding-bottom: 20px;
+     }
+     .banner-img-wrapper {
+      width: 92%;
+     }
+     .tabber-pagger-wrapper ul li {
+       width: 32.5%;
+     }
+     .forensic-service h3{
+     	 font-size: 28px;
+     	 line-height: 30px;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+       left: 36px;
+     }
+     .forensic-service h4::after{
+     	 right: -16px;
+     }
+     .about-content-wrapper h3 {
+      font-size: 26px;
+      line-height: 28px;
+     }
+     .about-content-wrapper p {
+      font-size: 17px;
+      line-height: 28px;
+     }
+     .specialist-box figure {
+      width: 70%;
+     }
+     .submit-btn {
+      width: 66%;
+     }
+     .participating-box-wrapper p {
+     font-size: 19px;
+     line-height: 33px;
+     }
+     .psypat-logo-wrapper {
+      width: 40%;
+     }
+     a.block-button.footer-btn {
+      width: 65%;
+     }
+     .about-content-wrapper h3 {
+     font-size: 19px;
+     line-height: 22px;
+     }
+     .slider-wrapper .bx-prev{
+     	 width: 7%;
+     }
+     .slider-wrapper .bx-next{
+     	 width: 7%;
+     }
+     .footer-social-links-wrapper ul li {
+      width: 80%;
+     }
+      .specialist-box {
+      width: 80%;
+      margin: 40px auto;
+     }
+     .specialist-box figure {
+      width: 33%;
+     }
+     .our-specialist-wrapper {
+      padding: 35px 0px 60px 0px;
+     } 
+      .about-content-wrapper h3 {
+      font-size: 26px;
+      line-height: 42px;
+      display: block;
+      width: 100%;
+      margin: 0 auto;
+      padding-bottom: 0;
+     }
+      a.block-button.lets-connect-btn {
+      width: 65%;
+     }
+     span.slicknav_icon{
+       right: 13px;
+     }
+ }
+ @media only screen  and (max-width: 374px){
+ 	  .footer-logo-wrapper figure svg {
+       width: 275px;
+     }
+     .banner-img-wrapper figure::after {
+      height: 285px;
+      width: 285px;
+     }
+     .banner-img-wrapper figure::before {
+      height: 285px;
+      width: 285px;
+     }
+     .banner-content-wrapper::after {
+      width: 248px;
+      height: 375px;
+     }
+      span.slicknav_menutxt {
+      right: 48px;
+     }
+     .banner-content-wrapper p {
+      font-size: 16px;
+      line-height: 25px;
+      }
+      .banner-content-wrapper h1 {
+       font-size: 28px;
+       line-height: 35px;
+       padding-bottom: 20px;
+     }
+      .block-button {
+       width: 55%;
+     }
+     .tabber-pagger-wrapper ul li {
+      width: 32.3%;
+     }
+     .tabber-pagger-wrapper ul li .active::after {
+      left: 29px;
+     }
+     .forensic-service h3 {
+      font-size: 24px;
+      line-height: 26px;
+     }
+     .forensic-service h4 {
+     font-size: 22px;
+     line-height: 24px;
+     }
+     .tabber-pagger-wrapper ul li a {
+     font-size: 16px;
+     line-height: 20px;
+     }
+     .forensic-service h4::after {
+      width: 17%;
+     }
+     .clinical-service h4 {
+      font-size: 22px;
+      line-height: 24px;
+     }
+     .clinical-service h4::after {
+      width: 21%;
+      right: -15px;
+     }
+      a.block-button.about-button {
+      width: 55%;
+     }
+     .specialist-box {
+      width: 80%;
+      margin: 40px auto;
+     }
+     .specialist-box figure {
+      width: 42%;
+     }
+     .our-specialist-wrapper {
+      padding: 35px 0px 60px 0px;
+     } 
+      .about-content-wrapper h3 {
+      font-size: 30px;
+      line-height: 34px;
+      display: block;
+      width: 100%;
+      margin: 0 auto;
+      padding-bottom: 0;
+     }
+      a.block-button.lets-connect-btn {
+      width: 65%;
+     }
+      .participating-box-wrapper p {
+        font-size: 17px;
+       line-height: 30px;
+     }
+     .submit-btn {
+      width: 80%;
+     }
+     a.block-button.footer-btn {
+       width: 72%;
+     }
+     .footer-social-links-wrapper ul li a {
+      font-size: 16px;
+      line-height: 21px;
+     }
+     .copyright-wrapper p {
+      font-size: 15px;
+      line-height: 20px;
+    }
+ } 
+ /*about page responsive*/
+ @media only screen and (max-width: 1679px){
+     .Professional-membership-tabber-content ul li{
+       margin-right: 75px;
+     }
+ }
+ @media only screen and (max-width: 1439px){
+     .header-contact-wrapper.clearfix{
+         right: 85px;
+     }
+     .Professional-membership-tabber-content ul li {
+       margin-right: 50px;
+   }
+   .about-education-box p{
+      font-size: 23px;
+      line-height: 40px;
+   }
+ }
+ @media only screen and (max-width: 1365px){
+    .header-contact-wrapper.clearfix {
+    right: 7px;
+    width: 88%;
+   }
+   .about-wrapper.services-wrapper h3::after{
+      bottom: 6px;
+      left: 20px;
+   }
+   .about-sheila-cohen-content-wrapper.right {
+    width: 50%;
+   }
+   .licenses-box-wrapper p {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .Professional-membership-tabber ul li a{
+     font-size: 20px;
+     line-height: 30px;
+  }
+  .tabber-pagger-wrapper ul li .active::after {
+    left: 110px;
+  }
+  .Professional-membership-tabber-content ul li figure img{
+      width: 190px;
+  }
+  .about-sheila-cohen-img-content-wrapper {
+    width: 100%;
+    margin-left: auto;
+  }
+  .about-education-wrapper {
+    margin-top: 95px;
+  }
+} 
+@media only screen and (max-width: 1199px){
+   .header-contact-wrapper.clearfix {
+       width: 97%;
+   }
+   .about-wrapper.services-wrapper h3::after{
+       left: 3px;
+   }
+   .about-sheila-cohen-img-wrapper {
+     margin-left: 30px;
+     width: 38%;
+   }
+   .about-education-wrapper{
+      padding-top: 85px;
+      margin-top: 30px;
+   }
+   .Professional-membership-tabber ul li {
+    width: 39.6%;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 17px;
+    line-height: 26px;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 95px;
+    border: none;
+   }
+   .Professional-membership-tabber-content ul li {
+    margin-right: 50px;
+   }
+   .Professional-membership-tabber-content ul li figure img {
+    width: 145px;
+   }
+   section.about-lets-connect-wrapper h3{
+      font-size: 41px;
+      line-height: 45px;
+   }
+    .about-footer.footer-social-links-wrapper ul li {
+    width: 32%;
+   }
+   div#tabs {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    overflow-x: scroll;
+    margin: 0 auto;
+     padding: 0px 0px 15px 0px; 
+    cursor: pointer;
+   }
+    /* ===== Scrollbar CSS ===== */
+    /* Firefox */
+    #tabs {
+      scrollbar-width: auto;
+      scrollbar-color: #8f54a0 #bdbcbc;
+    }
+
+    /* Chrome, Edge, and Safari */
+    #tabs::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    #tabs::-webkit-scrollbar-track {
+      background: #bdbcbc;
+    }
+
+    #tabs::-webkit-scrollbar-thumb {
+      background-color: #000080;
+      border-radius: 0px;
+      border: 0px solid #fffafa;
+    }
+
+}
+@media only screen and (max-width: 1023px){
+   .licenses-box-wrapper p {
+    font-size: 22px;
+    line-height: 30px;
+   }
+    .about-sheila-cohen-img-wrapper{
+     width: 39%;
+   }
+   .about-sheila-cohen-content-wrapper h3{
+      font-size: 45px;
+      line-height: 49px;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 16px;
+    line-height: 24px;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 85px;
+  }
+  .Professional-membership-tabber-content{
+     padding-top: 70px;
+   }
+   .Professional-membership-tabber-content ul li figure img {
+    width: 135px;
+   }
+   .Professional-membership-tabber-content ul li{
+     padding-top: 88px;
+   }
+   section.about-lets-connect-wrapper h3 {
+    font-size: 38px;
+    line-height: 39px;
+  }
+  .footer-social-links-wrapper ul li a{
+      font-size: 18px;
+      line-height: 28px;
+  }
+}
+@media only screen and (max-width: 979px){
+    .header-contact-wrapper.clearfix {
+    width: 49%;
+    top: 207px;
+   }
+   .about-sheila-cohen-img-wrapper {
+     width: 51%;
+    float: none;
+    margin: 0 auto;
+   }
+   .header-contact-link-wrapper ul li:last-child {
+     padding-top: 12px;
+   }
+   .about-wrapper {
+    margin-bottom: 55px;
+   }
+   .about-sheila-cohen-content-wrapper.right {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+   }
+   .about-sheila-cohen-content-wrapper h3{
+     padding: 45px 0px 45px 0px;
+   }
+   .about-education-wrapper{
+      padding-top: 15px;
+   }
+   .about-education-box-wrapper h3{ 
+       padding-bottom: 50px;
+   }
+   .licenses-box-wrapper{
+     width: 95%;
+   }
+   .Professional-membership-tabber ul li {
+    width: 49.6%;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 158px;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 16px;
+    line-height: 19px;
+   }
+   .Professional-membership-tabber-content h3{
+       font-size: 42px;
+       line-height: 44px;
+   }
+   .Professional-membership-tabber-content ul li figure img {
+    width: 220px;
+    margin: 0 auto;
+   }
+   .footer-social-links-wrapper ul li figure{ 
+        padding: 28px;
+   }
+   .about-footer.footer-social-links-wrapper ul li {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    padding-top: 40px;
+  }
+  .about-footer.footer-social-links-wrapper ul li:first-child{
+       padding-top: 0;
+   }
+   .about-education-box p {
+    font-size: 20px;
+    line-height: 31px;
+   }
+   .about-education-box p::after{
+      top: 16px;
+   }
+   section.about-sheila-cohen-wrapper {
+    position: relative;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+      padding: 46px 0px 45px 0px;
+    position: absolute;
+    top: -88px;
+    right: 157px;
+  }
+  .about-sheila-cohen-content-wrapper p{
+      margin-top: 55px;
+  }
+ 
+}
+@media only screen and (max-width: 767px){
+   .header-contact-wrapper.clearfix {
+    top: 145px;
+   }
+   .header-contact-link-wrapper ul li:last-child {
+    padding-top: 3px;
+   }
+   .about-sheila-cohen-img-wrapper{
+     width: 61%;
+   }
+   .about-sheila-cohen-content-wrapper p {
+    font-size: 20px;
+    line-height: 35px;
+   } 
+   .tabber-pagger-wrapper ul li .active::after {
+     left: 126px;
+   }
+   .Professional-membership-tabber-content h3 {
+    font-size: 33px;
+    line-height: 35px;
+   }
+   .Professional-membership-tabber-content ul li figure img {
+    width: 210px;
+    margin: 0 auto;
+   }
+   .Professional-membership-tabber-content ul li {
+    margin-right: 25px;
+   }
+   section.about-lets-connect-wrapper h3 {
+    font-size: 35px;
+    line-height: 39px;
+   }
+   .about-footer.footer-social-links-wrapper ul li {
+        padding-top: 20px;
+   }
+   .Professional-membership-tabber ul li {
+    width: 58.6%;
+   }
+   .about-sheila-cohen-content-wrapper h3{
+       right: 96px;
+   }
+   .about-wrapper.services-wrapper h3::after {
+    left: 45px;
+    } 
+}
+@media only screen and (max-width: 649px){
+  .header-contact-wrapper.clearfix{ 
+      top: 130px;
+      right: 48px;
+   }
+   .services-wrapper::after{ 
+     top: -17px;
+     left: 50px
+   }
+   .services-wrapper h3{
+      width: 38%;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 106px;
+   }
+   .Professional-membership-tabber-content ul li {
+    margin-right: 60px;
+    width: 35%;
+    vertical-align: middle;
+   }
+   section.about-lets-connect-wrapper h3 {
+    font-size: 29px;
+    line-height: 39px;
+   }
+   .Professional-membership-tabber-content h3 {
+    font-size: 29px;
+    line-height: 32px;
+   }
+   .licenses-box-wrapper p {
+    font-size: 20px;
+    line-height: 30px;
+   }
+   .licenses-box-wrapper  {
+    width: 100%;
+  }
+   .Professional-membership-tabber ul li {
+    width: 68.6%;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+    right: 50px;
+   }
+   .about-sheila-cohen-img-wrapper {
+    width: 70%;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+    right: 21px;
+  }
+}
+@media only screen and (max-width: 567px){
+     .header-contact-wrapper.clearfix {
+     top: 130px;
+     right: 97px;
+     width: 62%;
+  }
+   .services-wrapper h3{
+      font-size: 55px;
+     line-height: 60px;
+  }
+   .services-wrapper::after{ 
+     width: 150px;
+     line-height: 280px;
+   }
+   .about-wrapper.services-wrapper h3::after{
+      width: 137px;
+      left: 34px;
+   }
+   .about-sheila-cohen-img-wrapper {
+    width: 85%;
+   }
+   .about-education-box p {
+    font-size: 18px;
+    line-height: 28px;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+    font-size: 37px;
+    line-height: 40px;
+   }
+   .about-wrapper {
+    margin-bottom: 15px;
+   }
+   .Professional-liceness-text-wrapper h3 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+  .about-education-box{
+      padding: 28px 88px;
+  }
+  .different-types-licenses{
+      margin-top: 0;
+  }
+  .Professional-liceness-wrapper{
+     padding: 120px 0px 120px 0px;
+  }
+  .licenses-box-wrapper{
+     padding: 40px 40px 40px 95px;
+  }
+   .Professional-membership-tabber ul li {
+    width: 48.6%;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 16px;
+    line-height: 24px;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 86px;
+   }
+   .Professional-membership-tabber-content ul li:nth-child(even) {
+    margin-right: 0;
+   }
+   .Professional-membership-tabber-content h3 {
+    font-size: 24px;
+    line-height: 27px;
+   }
+   section.about-lets-connect-wrapper h3 {
+    font-size: 24px;
+    line-height: 40px;
+   }
+   .testimonial-wrapper h3{
+     font-size: 40px;
+     line-height: 47px;
+   }
+   .about-footer.footer-social-links-wrapper ul li{
+     width: 60%;
+   }
+   .Professional-membership-tabber ul li {
+    width: 100%;
+   }
+}   
+@media only screen and (max-width: 479px){
+  .header-contact-link-wrapper ul li:last-child {
+    margin-top: 6px;
+   }
+   .about-wrapper.services-wrapper h3::after{
+     left: 0;
+   }
+   .about-sheila-cohen-content-wrapper p {
+    font-size: 18px;
+    line-height: 28px;
+   }
+   .about-education-box-wrapper h3 {
+    font-size: 39px;
+    line-height: 42px ;
+   }
+   .about-education-box-wrapper h3 {
+    padding-bottom: 40px;
+   }
+   .about-education-box {
+    padding: 28px 50px;
+   }
+   .about-education-box p::after {
+    top: 5px;
+    left: -39px;
+   }
+   .Professional-liceness-text-wrapper h3 {
+    font-size: 33px;
+    line-height: 35px;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 75px;
+   }
+   .Professional-membership-tabber-content h3 {
+    font-size: 21px;
+    line-height: 24px;
+   }
+   .Professional-membership-tabber-content ul li figure figcaption{
+      font-size: 14px;
+    line-height: 19px;
+   }
+   .Professional-membership-tabber-content ul li {
+    padding-top: 45px;
+   }
+   section.about-lets-connect-wrapper h3 {
+    font-size: 21px;
+    line-height: 28px;
+   }
+   .about-wrapper.services-wrapper h3::after{
+      width: 137px;
+      left: 34px;
+   }
+}
+@media only screen and (max-width: 413px){
+   .about-sheila-cohen-img-wrapper {
+    width: 95%;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+    font-size: 32px;
+    line-height: 34px;
+   }
+   .about-sheila-cohen-content-wrapper p {
+    font-size: 19px;
+    line-height: 33px;
+   }
+   .Professional-liceness-wrapper{
+     margin: 50px 0px 50px 0px;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 14px;
+    line-height: 24px;
+   }
+   .Professional-membership-tabber-content ul li figure figcaption {
+    font-size: 16px;
+    line-height: 22px;
+   }
+   .Professional-membership-tabber-content ul li{
+      width: 38%;
+   }
+   section.about-lets-connect-wrapper h3 {
+    font-size: 25px;
+    line-height: 30px;
+    width: 60%;
+    padding-bottom: 20px;
+
+   }
+   .about-footer.footer-social-links-wrapper ul li {
+    width: 75%;
+   }
+   .Professional-membership-tabber-content ul li {
+    width: 37%;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 66px;
+   }
+   .licenses-box-wrapper p {
+    font-size: 18px;
+    line-height: 28px;
+   }
+   .about-wrapper.services-wrapper h3::after{
+      width: 137px;
+      left: 34px;
+   }
+   .Professional-membership-tabber ul li {
+    width: 100%;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+     right: 33px;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 15px;
+    line-height: 18px;
+   }
+}
+@media only screen and (max-width: 374px){
+    .header-contact-wrapper.clearfix {
+    right: 5px;
+    width: 97%;
+    cursor: pointer;
+   }
+   .services-wrapper h3 {
+    width: 53%;
+   }
+   .services-wrapper{
+     padding: 108px 0px 50px 0px;
+   }
+   .about-sheila-cohen-img-wrapper {
+    width: 95%;
+   }
+   .about-sheila-cohen-content-wrapper h3 {
+    font-size: 28px;
+    line-height: 30px;
+   }
+   .about-sheila-cohen-content-wrapper p {
+    font-size: 19px;
+    line-height: 32px;
+   }
+   .about-education-box p {
+    font-size: 16px;
+    line-height: 28px;
+   }
+   .Professional-liceness-text-wrapper h3 {
+    font-size: 28px;
+    line-height: 32px;
+   }
+   .licenses-box-wrapper p {
+    font-size: 17px;
+    line-height: 28px;
+   }
+   .licenses-box-wrapper p::after{  
+      top: 12px;
+   }
+   .Professional-membership-tabber ul li a {
+    font-size: 11px;
+    line-height: 18px;
+   }
+   .tabber-pagger-wrapper ul li .active::after {
+    left: 54px;
+   }
+   .Professional-membership-tabber-content ul li figure figcaption {
+    font-size: 14px;
+    line-height: 22px;
+   }
+   section.about-lets-connect-wrapper h3{
+      width: 70%;
+   }
+   .about-footer.footer-social-links-wrapper ul li {
+    width: 90%;
+   }
+   .about-wrapper.services-wrapper h3::after{
+      width: 137px;
+      left: 34px;
+   }
+   .Professional-membership-tabber ul li {
+    width: 100%;
+   }
+}
+/* service-page-responsive start */
+@media only screen and (max-width: 1679px){
+    .clinical-service::after{
+        left: 8px;
+    }
+    .header-contact-wrapper.clearfix{
+        right: 60px;
+    }
+    .services-during-wrapper .clinical-service::after{
+        left: -54px;
+    }
+    .heading::before{
+       right: 4px;
+    }
+}
+@media only screen and (max-width: 1365px){
+   .before-services-content-wrapper h4::after{
+      left: -9px;
+   }
+   .different-services-content.taber-content-wrapper {
+    width: 100%;
+  }
+  .different-services-content.forensic-service.left ul li a{ 
+    font-size: 18px;
+    line-height: 32px;
+   }
+  @media only screen and (max-width: 1199px){
+      .services-wrapper{
+         margin-bottom: 75px;
+   }
+    .before-services-content-wrapper h4::after {
+     left: -27px;
+     width: 14%;
+   }
+   .before-service-content-wrapper.different-services-content.forensic-service.left {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+   }
+   .different-services-content.taber-content-wrapper {
+    width: 70%;
+  }
+   .different-services-content-wrapper .clinical-service {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+    padding-top: 50px;
+   }
+   .clinical-service-icon{
+     top: 35px;
+   }
+   .clinical-service::after{
+       border: none;
+   }
+   .forensic-service.left {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+   }
+   .clinical-service {
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+    padding-top: 60px;
+   }
+   figure.during-icon-image{ 
+       top: 47px;
+    }
+  .services-during-wrapper .clinical-service::after{
+    border: none;
+  }
+  .services-after-content-wrapper h4::after{
+     width: 16%;
+     left: -10px;
+  }
+  .clinical-service{
+     padding-left: 0;
+  }
+  .clinical-service-logo {
+    top: 45px;
+    left: 12px;
+  }
+  .before-service-img-wrapper.right {
+    width: 70%;
+    margin: 0 auto;
+    float: none;
+    position: unset;
+  }
+  .before-service-img-wrapper figure img {
+    position: unset;
+  }
+  .before-services.different-services-content.taber-content-wrapper.clearfix {
+    margin-bottom: 60px;
+  }
+  .service-after-image-wrapper {
+    width: 70%;
+    float: none;
+    margin: 0 auto;
+    position: unset;
+
+   }
+   .service-after-image-wrapper figure img{
+     position: unset;
+     width: 100%;
+   }
+   .after-tabs-wrapper.taber-content-wrapper.different-services-content.service-after-tabber.clearfix {
+    background-color: #fff;
+    margin-bottom: 80px;
+   }
+   .taber-content-wrapper.clearfix{ 
+      margin-top: 70px;
+    }
+}
+@media only screen and (max-width: 1023px){
+    .header-contact-link-wrapper {
+    width: 60%;
+  }
+}
+@media only screen and (max-width:979px){
+  .header-contact-link-wrapper {
+    width: 82%;
+    display: block;
+    margin: 0 auto;
+   }
+   .header-contact-wrapper.clearfix{
+    right: 0;
+   }
+   .different-services-content.taber-content-wrapper {
+    width: 100%;
+   }
+   .different-services-content.forensic-service .forensic-service-icon{ 
+       left: 50px;
+       top: 85px;
+    }
+    .before-service-img-wrapper.right{
+       width: 100%;
+   }
+   .services-after-content-wrapper h4::after {
+    width: 20%;
+    left: -29px;
+   }
+   figure.during-icon-forensic-img{
+      top: 86px;
+      left: 46px;
+   }
+   .after-logo{
+      left: 50px;
+      top: 85px;
+   }
+   .service-after-image-wrapper{
+     width: 100%;
+   }
+   .footer-social-links-wrapper ul li a {
+    font-size: 16px;
+    line-height: 25px;
+   }
+}
+@media only screen and (max-width:767px){
+   .header-contact-link-wrapper {
+    width: 100%;
+   }
+   .services-wrapper h3{
+     width: 45%;
+   }
+   .before-services-content-wrapper h4::after {
+    left: -35px;
+    width: 23%;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    font-size: 17px;
+    line-height: 32px;
+   }
+}
+@media only screen and (max-width:649px){
+   .header-contact-wrapper.clearfix {
+    right: 50px;
+   }
+   .services-wrapper h3 {
+    width: 50%;
+   }
+   .forensic-service ul {
+    padding-left: 0px;
+   }
+   .taber-content-wrapper.clearfix {
+    padding: 100px 15px;
+   }
+   .different-services-content.forensic-service .forensic-service-icon {
+    left: 25px;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    font-size: 21px;
+    line-height: 35px;
+   }
+   .clinical-service ul li a {
+    font-size: 21px;
+    line-height: 35px;
+   }
+   .clinical-service ul{
+    padding-left: 0;
+   }
+   .different-services-content-wrapper .clinical-service {
+     padding-left: 0;
+   }
+   .clinical-service-icon{
+     left: 13px;
+   }
+   figure.during-icon-forensic-img{
+      left: 30px;
+   }
+   .before-services-content-wrapper h4::after{ 
+     width: 28%;
+  }
+  .services-after-content-wrapper h4::after{
+     width: 30%;
+  }
+  .after-logo {
+     left: 30px;
+  }
+}
+@media only screen and (max-width:567px){
+    .different-services-content .forensic-service h4{
+       width: 320px;
+   }
+    .different-services-content .clinical-service h4{
+       width: 310px;
+   }
+    .services-wrapper h3::after{ 
+       width: 160px;
+       left: 25px;
+   }
+   .before-services-content-wrapper h4{
+     width: 40%;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    font-size: 18px;
+     line-height: 32px;
+   }
+   .different-services-content.forensic-service.left ul li a{
+     width: 360px;
+   }
+   .heading::before {
+    right: 27px;
+   }
+   .different-services-content-wrapper ul li{
+    width: 100%;
+   }
+   .before-service-content-wrapper .contents{
+     width: 100%;
+   }
+   .different-services-content.forensic-service .forensic-service-icon {
+    left: 8px;
+   }
+   .clinical-service-contents.contents{
+      width: 100%;
+   }
+   .clinical-service-icon {
+    left: -6px;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    font-size: 21px;
+    line-height: 32px;
+   }
+   .services-wrapper {
+    margin-bottom: 40px;
+   }
+   .after-logo {
+    left: 10px;
+  }
+  .clinical-service-logo{
+     left: -12px;
+  }
+   .different-services-content .clinical-service h4{ 
+     margin-left: 38px;
+   }
+   .clinical-service ul li a {
+    font-size: 22px;
+    line-height: 35px;
+   }
+   .during-clinical.clinical-service.right h4 {
+    margin-left: 105px;
+   }
+}
+@media only screen and (max-width:479px){
+    .different-services-content .forensic-service h4 {
+      width: 70%;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    width: 100%;
+   }
+   .different-services-content .clinical-service h4 {
+     width: 73%;
+    margin: 0 auto;
+    font-size: 27px;
+    line-height: 35px;
+   } 
+   .after-tabs-wrapper ul li a{
+     width: 100%;
+   } 
+   .services-wrapper h3 {
+    width: 60%;
+   }
+   .services-wrapper h3 {
+    font-size: 50px;
+    line-height: 55px;
+   }
+   .before-services-content-wrapper h4 {
+    width: 41%;
+    font-size: 41px;
+    line-height: 43px;
+   }
+   .before-services-content-wrapper h4::after{
+     height: 57%;
+   }
+   .different-services-content .forensic-service h4 {
+    width: 80%;
+    font-size: 30px;
+    line-height: 35px;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    font-size: 20px;
+    line-height: 33px;
+   }
+   .different-services-content .forensic-service h4{
+      padding-bottom: 12px;
+   }
+   .taber-content-wrapper.clearfix {
+    padding: 60px 15px;
+   }
+   .different-services-content.forensic-service .forensic-service-icon{
+      top: 46px;
+   }
+   .before-service-content-wrapper ul li a {
+    padding-left: 22px;
+   }
+   .contents{ 
+    padding: 0px 0px 10px 10px;  
+   }
+   .contents p {
+    width: 290px;
+    margin: 0 auto;
+   }
+   .before-service-content-wrapper .contents{ 
+       padding: 10px 0px 5px 30px ;
+    }
+     .before-service-content-wrapper.forensic-service ul li::after {
+      top: 30px;
+     left: 10px;
+   }
+   .heading::before {
+     right: 4px;
+     top: 16px;
+   }
+   .services-during-wrapper h4{
+      font-size: 40px;
+      line-height: 45px;
+   }
+   figure.during-icon-forensic-img
+   {
+      top: 46px;
+   }
+   .services-after-content-wrapper h4{
+      width: 43%;
+      font-size: 40px;
+      line-height: 45px;
+   }
+   .services-after-content-wrapper h4::after{
+      height: 52%;
+   }
+   .after-logo{
+      top: 44px;
+   }
+   .contents {
+    padding: 0px 0px 10px 26px;
+   }
+   .clinical-service ul li a {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .header-contact-wrapper.clearfix {
+    right: 94px;
+    width: 72%;
+   }
+}
+@media only screen and (max-width:413px){
+  .header-contact-wrapper.clearfix {
+    right: 70px;
+  }
+  .during-header-wrapper{
+     width: 300px;
+  }
+  .different-services-content .forensic-service h4{ 
+      width: 72%;
+   }
+   .different-services-content-wrapper.clearfix h4{
+     margin-left: 70px;
+   }
+   .before-service-content-wrapper.forensic-service ul li::after{ 
+       left:8px;
+    }
+   .different-services-content .forensic-service h4{
+      font-size: 26px;
+      line-height: 30px;
+   }  
+   .clinical-service ul li a {
+    font-size: 19px;
+    line-height: 31px;
+   }
+
+ }
+@media only screen and (max-width:374px){
+  .different-services-content .clinical-service h4 {
+    width: 60%;
+    font-size: 21px;
+    line-height: 25px;
+   }
+   .header-contact-wrapper.clearfix {
+    right: 90px;
+   }
+   .services-wrapper h3 {
+    font-size: 45px;
+    line-height: 49px;
+    width: 75%;
+   }
+   .before-services-content-wrapper h4 {
+    width: 43%;
+    font-size: 34px;
+    line-height: 38px;
+   }
+   .before-services-content-wrapper h4::after {
+    height: 57%;
+    top: 6px;
+   }
+   .services-wrapper::after {
+    top: -51px;
+   }
+   .different-services-content .forensic-service h4 {
+    font-size: 24px;
+    line-height: 30px;
+   }
+   .different-services-content.forensic-service.left ul li a {
+    font-size: 16px;
+    line-height: 30px;
+   }
+   .contents p {
+    width: 234px;
+   }
+   figure.during-icon-forensic-img {
+    left: 11px;
+   }
+   .service-during-wrapper.different-services-content.forensic-service h4 {
+    margin-left: 73px;
+   }
+   .services-during-wrapper h4 {
+    font-size: 34px;
+    line-height: 45px;
+    width: 50%;
+   }
+   .services-during-wrapper h4::after{
+      height: 50%;
+   }
+   .nextheading::before{ 
+       top: 35px;
+    }
+}
